@@ -1,9 +1,306 @@
--- chapter2
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
-local location = CFrame.new(-1058, 643, -900)
+local location = CFrame.new(110, 359, -280)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
-humanoid:ChangeState(Enum.HumanoidStateType.Flying)
 pl.CFrame = location
-wait(30)
-
-https://raw.githubusercontent.com/Arrazer/Scripts-Matrixplayer/main/Chapter2.lua
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(110, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(30, 359, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(0.5)
+local location = CFrame.new(30, 459, -280)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
