@@ -37,7 +37,7 @@ for i=1,45 do
   tercerafase()
   end
 --cuarta fase
-wait(5)
+
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(-190, 408, 220)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
