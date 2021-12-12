@@ -24,7 +24,7 @@ wait(25)
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(-36, 420, -238)
 pl.CFrame = location
-wait(25
+wait(25)
 --Tercera fase
 function tercerafase()
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
