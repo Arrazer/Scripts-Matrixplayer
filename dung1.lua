@@ -33,7 +33,7 @@ local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
 wait(0.2)
   end
-for i=1,75 do
+for i=1,80 do
   tercerafase()
   end
 --cuarta fase
@@ -41,13 +41,13 @@ local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(-190, 408, 220)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
-wait(30)
+wait(35)
 --Quinta fase
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(-180, 500, 565)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
-wait(30)
+wait(35)
 --Boss
 function Ainz()
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
