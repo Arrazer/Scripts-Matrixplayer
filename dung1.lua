@@ -47,5 +47,16 @@ local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(-180, 500, 565)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
-wait(30)
+wait(25)
+--Boss
+function Ainz()
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(-285, 447, 770)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+  wait(0.5)
+  end
+for i=1,200 do
+  Ainz()
+  end
 
