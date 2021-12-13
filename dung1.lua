@@ -33,7 +33,7 @@ local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
 wait(0.2)
   end
-for i=1,105 do
+for i=1,110 do
   tercerafase()
   end
 --cuarta fase
@@ -43,7 +43,7 @@ local location = CFrame.new(-190, 408, 220)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
   end
-for i=1,80 do
+for i=1,70 do
   cuartafase()
   wait(0.5)
   end
