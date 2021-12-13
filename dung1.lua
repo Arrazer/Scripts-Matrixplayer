@@ -55,7 +55,7 @@ local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
   end
 for i=1,30 do
-  cuartafase()
+  quintafase()
   wait(1)
   end
 --Boss
