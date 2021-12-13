@@ -43,7 +43,7 @@ local location = CFrame.new(-190, 408, 220)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
   end
-for i=1,55 do
+for i=1,45 do
   cuartafase()
   wait(0.5)
   end
