@@ -12,7 +12,7 @@ local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
 wait(0.2)
   end
-for i=1,65 do
+for i=1,70 do
   primerafase()
   end
 --segunda fase
@@ -20,11 +20,11 @@ local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(104, 400, -250)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
-wait(21)
+wait(23)
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(-36, 420, -238)
 pl.CFrame = location
-wait(21)
+wait(23)
 --Tercera fase
 function tercerafase()
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
@@ -43,7 +43,7 @@ local location = CFrame.new(-190, 408, 220)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
   end
-for i=1,55 do
+for i=1,48 do
   cuartafase()
   wait(0.5)
   end
