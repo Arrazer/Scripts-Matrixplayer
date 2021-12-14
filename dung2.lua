@@ -48,6 +48,17 @@ for i = 1,30 do
   cuartafase()
   wait(0.5)
 end
+--Quinta fase
+function quintafase()
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(-180, 500, 565)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+  end
+for i=1,6 do
+  quintafase()
+  wait(1)
+  end
 --boss
 function Ainz()
 local pl       = game.Players.LocalPlayer.Character.HumanoidRootPart
