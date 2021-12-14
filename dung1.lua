@@ -55,7 +55,7 @@ local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
   wait(0.2)
   end
-for i=1,300 do
+for i=1,450 do
   Ainz()
   end
 
