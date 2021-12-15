@@ -12,7 +12,7 @@ local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
 wait(0.1)
   end
-for i=1,70 do
+for i=1,85 do
   primerafase()
   end
 --segunda fase
