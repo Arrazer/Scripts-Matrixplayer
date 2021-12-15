@@ -36,7 +36,7 @@ function macros()
     vim:SendKeyEvent(true, "G", false, game)
     wait(.6)
     local vim = game:service'VirtualInputManager'
-    vim:SendKeyEvent(true, "Y", false, game)
+    vim:SendKeyEvent(true, "B", false, game)
     wait(.6)
 end
 
