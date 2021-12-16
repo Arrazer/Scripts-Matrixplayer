@@ -82,49 +82,49 @@ end)
 Fly()
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "Y", false, game)
-    wait(.6)
+    wait(.7)
     function macros()
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "P", false, game)
-    wait(.6)
+    wait(.7)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "G", false, game)
-    wait(.6)
+    wait(.7)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "F", false, game)
-    wait(.6)
+    wait(.7)
     vim:SendKeyEvent(true, "U", false, game)
-    wait(.6)
+    wait(.7)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "K", false, game)
-    wait(.6)
+    wait(.7)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "Q", false, game)
-    wait(.6)
+    wait(.7)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "M", false, game)
-    wait(.6)
+    wait(.7)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "N", false, game)
-    wait(.6)
+    wait(.7)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "J", false, game)
-    wait(.6)
+    wait(.7)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "H", false, game)
-    wait(.6)
+    wait(.7)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "L", false, game)
-    wait(.6)
+    wait(.7)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "B", false, game)
-    wait(.6)
+    wait(.7)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "B", false, game)
-    wait(.6)
+    wait(.7)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "E", false, game)
-    wait(.6)
+    wait(.7)
 end
 delay(11, function()
 macros()
