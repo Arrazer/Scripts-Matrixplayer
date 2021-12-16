@@ -85,13 +85,13 @@ Fly()
     wait(.6)
     function macros()
     local vim = game:service'VirtualInputManager'
-    vim:SendKeyEvent(true, "F", false, game)
+    vim:SendKeyEvent(true, "P", false, game)
     wait(.6)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "G", false, game)
     wait(.6)
     local vim = game:service'VirtualInputManager'
-    vim:SendKeyEvent(true, "P", false, game)
+    vim:SendKeyEvent(true, "F", false, game)
     wait(.6)
     vim:SendKeyEvent(true, "U", false, game)
     wait(.6)
@@ -142,43 +142,47 @@ wait(5)
 macros()
 
 end)
---Primera parte
+--Primera etapa
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(380, 380, -225)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 humanoid:ChangeState(Enum.HumanoidStateType.Flying)
 pl.CFrame = location
 wait(17)
-
-
 delay(34, function()
 macros()
 wait(5)
 macros()
 end)
--- 2/1 Stage
+-- Segunda etapa
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(163, 389, -293)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
 wait(13)
-
--- 2/2 Stage
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(-20, 415, -289)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
 wait(20)
--- 3rd Stage (1/2)
+delay(30, function()
+macros()
+end)
+-- tercera etapa
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(-151, 400, -307)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
 wait(13)
-
---3rd Stage (2/2)
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(-222, 399, -199)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(13)
+--Cuarta etapa
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(-195, 444, 210)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+humanoid:ChangeState(Enum.HumanoidStateType.Flying)
 pl.CFrame = location
 wait(13)
