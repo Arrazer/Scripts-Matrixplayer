@@ -196,3 +196,11 @@ local humanoid = game.Players.LocalPlayer.Character.Humanoid
 humanoid:ChangeState(Enum.HumanoidStateType.Flying)
 pl.CFrame = location
 wait(15)
+--ainz
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(-285, 447, 770)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+while wait(.5) do
+    macros()
+end
