@@ -179,10 +179,20 @@ local location = CFrame.new(-222, 399, -199)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
 wait(13)
+delay(19, function()
+macros()
+end)
 --Cuarta etapa
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(-195, 444, 210)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 humanoid:ChangeState(Enum.HumanoidStateType.Flying)
 pl.CFrame = location
-wait(13)
+wait(17)
+--quinta etapa
+local pl       = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(-260, 475, 510)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+humanoid:ChangeState(Enum.HumanoidStateType.Flying)
+pl.CFrame = location
+wait(15)
