@@ -171,41 +171,14 @@ pl.CFrame = location
 wait(20)
 -- 3rd Stage (1/2)
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
-local location = CFrame.new(-151, 427, -307)
+local location = CFrame.new(-151, 400, -307)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
 wait(13)
 
 --3rd Stage (2/2)
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
-local location = CFrame.new(-222, 421, -199)
+local location = CFrame.new(-222, 399, -199)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
 wait(13)
-
---3rd Stage (2/2)
-local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
-local location = CFrame.new(-222, 421, -199)
-local humanoid = game.Players.LocalPlayer.Character.Humanoid
-pl.CFrame = location
-wait(14)
-
---4th Stage
-local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
-local location = CFrame.new(-195, 444, 210)
-local humanoid = game.Players.LocalPlayer.Character.Humanoid
-pl.CFrame = location
-wait(18)
-
---5th Stage
-local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
-local location = CFrame.new(-250, 490, 486)
-local humanoid = game.Players.LocalPlayer.Character.Humanoid
-pl.CFrame = location
-wait(15)
-
---Boss
-local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
-local location = CFrame.new(-285, 550, 770)
-local humanoid = game.Players.LocalPlayer.Character.Humanoid
-pl.CFrame = location
