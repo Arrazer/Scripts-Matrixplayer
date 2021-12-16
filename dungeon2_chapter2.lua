@@ -88,7 +88,7 @@ Fly()
     vim:SendKeyEvent(true, "F", false, game)
     wait(.6)
     local vim = game:service'VirtualInputManager'
-    vim:SendKeyEvent(true, "B", false, game)
+    vim:SendKeyEvent(true, "G", false, game)
     wait(.6)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "P", false, game)
@@ -96,10 +96,10 @@ Fly()
     vim:SendKeyEvent(true, "U", false, game)
     wait(.6)
     local vim = game:service'VirtualInputManager'
-    vim:SendKeyEvent(true, "Q", false, game)
+    vim:SendKeyEvent(true, "L", false, game)
     wait(.6)
     local vim = game:service'VirtualInputManager'
-    vim:SendKeyEvent(true, "L", false, game)
+    vim:SendKeyEvent(true, "Q", false, game)
     wait(.6)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "M", false, game)
@@ -117,7 +117,7 @@ Fly()
     vim:SendKeyEvent(true, "K", false, game)
     wait(.6)
     local vim = game:service'VirtualInputManager'
-    vim:SendKeyEvent(true, "G", false, game)
+    vim:SendKeyEvent(true, "B", false, game)
     wait(.6)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "B", false, game)
@@ -136,34 +136,52 @@ local humanoid = game.Players.LocalPlayer.Character.Humanoid
 humanoid:ChangeState(Enum.HumanoidStateType.Flying)
 pl.CFrame = location
 wait(10)
+delay(19, function()
+macros()
+wait(5)
+macros()
+
+end)
 --Primera parte
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(380, 380, -225)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 humanoid:ChangeState(Enum.HumanoidStateType.Flying)
 pl.CFrame = location
-wait(10)
+wait(17)
 
+
+delay(34, function()
+macros()
+wait(5)
+macros()
+end)
 -- 2/1 Stage
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(163, 389, -293)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
-wait(1)
+wait(13)
 
 -- 2/2 Stage
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(-20, 415, -289)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
-wait(13)
-
+wait(20)
 -- 3rd Stage (1/2)
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(-151, 427, -307)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
-wait(1)
+wait(13)
+
+--3rd Stage (2/2)
+local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+local location = CFrame.new(-222, 421, -199)
+local humanoid = game.Players.LocalPlayer.Character.Humanoid
+pl.CFrame = location
+wait(13)
 
 --3rd Stage (2/2)
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
