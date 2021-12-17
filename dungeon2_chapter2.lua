@@ -207,5 +207,10 @@ local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(-285, 447, 770)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
+for i=1, 57 do
+    macros()
+end
+
+game:GetService("TeleportService"):Teleport(7220986579, LocalPlayer)
 
 
