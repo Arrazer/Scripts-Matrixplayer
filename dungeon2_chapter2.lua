@@ -81,6 +81,12 @@ end
 end)
 Fly()
     local vim = game:service'VirtualInputManager'
+    vim:SendKeyEvent(true, "Nine", false, game)
+    wait(.7)
+    local vim = game:service'VirtualInputManager'
+    vim:SendKeyEvent(true, "X", false, game)
+    wait(.7)
+    local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "Y", false, game)
     wait(.7)
     function macros()
