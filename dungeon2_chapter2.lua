@@ -210,5 +210,5 @@ pl.CFrame = location
 for(57) do
     macros()
 end
-game:GetService("TeleportService"):Teleport(7220986579, LocalPlayer)
+
 
