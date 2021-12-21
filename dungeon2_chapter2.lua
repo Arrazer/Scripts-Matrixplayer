@@ -134,7 +134,6 @@ end)
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(2863, 3, 1037)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
-humanoid:ChangeState(Enum.HumanoidStateType.Flying)
 pl.CFrame = location
 wait(10)
 delay(19, function()
@@ -147,7 +146,6 @@ end)
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(380, 380, -225)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
-humanoid:ChangeState(Enum.HumanoidStateType.Flying)
 pl.CFrame = location
 wait(17)
 delay(34, function()
@@ -187,14 +185,12 @@ end)
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(-195, 444, 210)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
-humanoid:ChangeState(Enum.HumanoidStateType.Flying)
 pl.CFrame = location
 wait(17)
 --quinta etapa
 local pl       = game.Players.LocalPlayer.Character.HumanoidRootPart
 local location = CFrame.new(-260, 475, 510)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
-humanoid:ChangeState(Enum.HumanoidStateType.Flying)
 pl.CFrame = location
 wait(15)
 --ainz
