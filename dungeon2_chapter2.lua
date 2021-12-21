@@ -202,4 +202,5 @@ wait(1)
 for i=1,7 do
     macros()
 end
+wait(2)
 game:GetService("TeleportService"):Teleport(4042427666, LocalPlayer)
