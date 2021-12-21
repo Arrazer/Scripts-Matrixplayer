@@ -199,7 +199,7 @@ local location = CFrame.new(-285, 447, 770)
 local humanoid = game.Players.LocalPlayer.Character.Humanoid
 pl.CFrame = location
 wait(1)
-for i=1,7 do
+for i=1,8 do
     macros()
 end
 game:GetService("TeleportService"):Teleport(4042427666, LocalPlayer)
