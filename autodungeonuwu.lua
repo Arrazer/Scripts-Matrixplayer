@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Arrazer/Scripts-Matrixplayer/main/dungeon2_chapter2.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Arrazer/UwU/main/zd.lua?token=AOOCCZEDZXVBXKYMWX4BKRDBYM3HM"))()
