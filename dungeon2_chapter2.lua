@@ -118,7 +118,7 @@ Fly()
     vim:SendKeyEvent(true, "L", false, game)
     wait(.7)
     local vim = game:service'VirtualInputManager'
-    vim:SendKeyEvent(true, "B", false, game)
+    vim:SendKeyEvent(true, "R", false, game)
     wait(.7)
     local vim = game:service'VirtualInputManager'
     vim:SendKeyEvent(true, "B", false, game)
