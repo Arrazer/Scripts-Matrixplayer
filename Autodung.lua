@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Arrazer/Scripts-Matrixplayer/main/Chapter2.lua"))()
